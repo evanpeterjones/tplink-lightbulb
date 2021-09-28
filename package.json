@@ -35,6 +35,7 @@
     "KP100"
   ],
   "dependencies": {
+    "react-native-udp": "^4.1.3",
     "yargs": "latest"
   },
   "source": "src/index.js",

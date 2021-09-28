@@ -1,4 +1,4 @@
-import dgram from 'dgram'
+import dgram from 'react-native-udp'
 import EventEmitter from 'events'
 
 export default class TPLSmartDevice {
